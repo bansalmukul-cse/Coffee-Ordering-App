@@ -1,0 +1,7 @@
+# JustJava_Coffee_ordering_App
+
+JustJava  is a basic coffeeordering  android app to get familiarized with android basics such as views, layouts, intents, activities, etc
+
+The idea of the App:
+Late nights are very common these days. The JustCofee app allows the user the order coffee with toppings of their choice. Once the user is ready to order they add the order to cart. The user is then navigated to the information page where they give their personal information. 
+On finalizing the order an email is sent to our email address with the order details 
